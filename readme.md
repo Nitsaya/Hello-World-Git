@@ -38,7 +38,8 @@ Underline 2
 - [Esto es un link al index](index.html)
 
 # Imagenes
-[Logo Github](https://miracomosehace.com/wp-content/uploads/2020/07/icono-de-github.jpg)
+![Logo Github](https://www.sentra.cl/images/logo-sentra.png)
+
 
 # Code Snippets
 Codigo en JSON
