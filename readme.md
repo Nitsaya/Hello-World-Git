@@ -38,7 +38,7 @@ Underline 2
 - [Esto es un link al index](index.html)
 
 # Imagenes
-![Logo Github](https://www.sentra.cl/images/logo-sentra.png)
+![Logo sentra](https://www.sentra.cl/images/logo-sentra.png)
 
 
 # Code Snippets
